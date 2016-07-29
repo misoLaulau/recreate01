@@ -46,12 +46,9 @@ a.topnav li{
 .gallery{
   max-width:688px;
   max-height:276px;
-  left: 0;
-	right: 0;
   margin-top: 35px;
 	margin-left: auto;
  	margin-right: auto;
-  position: relative;
   }
   .thumbnail {
   display: inline-block;
@@ -73,7 +70,7 @@ a.topnav li{
      display: block;
    }
    .gallery {
-     width: 600px;
+     width: 516px;
    }
    }
 @media only screen and (max-width: 519px){ 
@@ -84,6 +81,6 @@ a.topnav li{
      display: block;
    }
    .gallery {
-     width: 400px;
+     width: 343px;
    }
 }
